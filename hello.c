@@ -1,1 +1,8 @@
-#include <stdio.h>\n intmain() {\n printf("hello piscine 42! \\n") return 0;\n}
+#include <stdio.h>
+
+int main()
+{ printf("hello piscine 42! \n"); 
+printf("je comit sur git !");	
+	
+return 0;}
+
